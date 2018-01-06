@@ -1,2 +1,3 @@
 This is my first Django _ myblog 
-I will upload it firstly to save as matrials. 
+I would like to upload it firstly to save as matrials. 
+I make a change!
